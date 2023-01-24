@@ -1,0 +1,59 @@
+.car {
+    text-align: center;
+    padding: 0px 0;
+}
+
+.car-items {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    height: 500px;
+    overflow-y: auto;
+}
+
+.car-item {
+    max-width: 250px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.car-item-image img {
+    vertical-align: bottom;
+    width: 250px;
+}
+
+.car-item-title {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #030305;
+    padding: 15px 0 17px 0;
+}
+
+.car-item-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.car-item-point {
+    width: 50px;
+    height: 92px;
+    margin: 0 7.5px;
+
+}
+
+.car-item-point img {
+    margin-bottom: 11px;
+}
+
+
+.car-item-action {
+    margin-top: 13px;
+}
+
+.car-item-point > div:nth-child(2) {
+    font-weight: bold;
+}
