@@ -1,4 +1,5 @@
 # Big-project-React---kinosearcher
 project - kinopoisk
 <br/>
-Ex:![My-react-projectpng](https://user-images.githubusercontent.com/84266444/216815567-84cb31f4-914f-4ac1-825d-2ff11fc1368b.png)
+Ex:
+![my-react-app2](https://user-images.githubusercontent.com/84266444/216815696-b151bb70-f251-40b8-9abd-9f0b65a95583.png)
