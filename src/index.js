@@ -17,11 +17,14 @@ ReactDOM.render(
     clientId={clientID}
     redirectUri={window.location.origin}
   >
-    <LoginButton>Log in</LoginButton>
-    <LogoutButton>Log Out</LogoutButton>
-    <Profile></Profile>
-    <Search classsName="search_input" />
-    <App1 />
+    <div class="index">
+      <LoginButton>Log in</LoginButton>
+      <LogoutButton>Log Out</LogoutButton>
+      <Profile></Profile>
+      <Search classsName="search_input" />
+      <App1 />
+    </div>
   </Auth0Provider>,
+
   document.getElementById("root")
 );
